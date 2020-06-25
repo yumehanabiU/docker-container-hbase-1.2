@@ -1,3 +1,3 @@
 From harisekhon/hbase:1.2
 
-# author zhongli
+# author zhongli 0.4
